@@ -1,0 +1,9 @@
+# simulation results
+# s=0.02, L=10, Ks=2, rho=0.3; 5 simulation replicates, nD=500 demes, 40 neutral markers
+#column1: KM, Column 2: p(rare habitat); Column 3: diversity (rare habitat); Column 4-7 E(FST) and E(Fst^2) for rare (col 4-5) and common (col 6-7) habitats
+0.2  0.8942  0.0442  0.7364  0.5508  0.7610  0.5875
+0.6  0.7526  0.1111  0.4807  0.2387  0.5064  0.2645
+1.2  0.5661  0.1646  0.3154  0.1042  0.3307  0.1144
+1.8  0.4116  0.1737  0.2351  0.0582  0.2432  0.0623
+2.4  0.2820  0.1522  0.1880  0.0374  0.1925  0.0392
+3.8  0.0000  0.0000  0.1296  0.0178  0.1298  0.0179

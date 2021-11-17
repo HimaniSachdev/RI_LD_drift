@@ -1,0 +1,15 @@
+# Theoretical predictions (under LE)
+# s=0.02, Ks=4, rho=0.1
+# col 1-> Km 
+# cols 2,3 -> expected allele frequencies in the rare and common habitats for the allele that is locally favoured in the rare habitat
+0.200 0.94059 0.00549   
+0.600 0.82187 0.01404  
+1.000 0.69632 0.01942  
+1.400 0.56677 0.02168  
+1.800 0.43626 0.02102  
+2.200 0.30713 0.01770  
+2.600 0.18084 0.01204    
+3.000 0.05812 0.00437   
+3.100 0.02804 0.00216       
+3.200 0.00000 0.00000  
+

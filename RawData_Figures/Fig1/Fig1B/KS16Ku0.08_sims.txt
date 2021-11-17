@@ -1,0 +1,12 @@
+# Simulation results
+# s=0.02, Ks=16, Ku=0.08
+# col 1-> Km, col 2 -> allele freq at selected loci (averaged over loci and over replicates) for L=40; col 3 -> E[pq] at selected loci (averaged over loci and over replicates) for L=40;
+ 2.0 0.0348517 0.0325336
+ 4.0 0.0672637 0.0605987
+ 6.0 0.104205  0.0899736 
+ 8.0 0.144933  0.119183  
+10.0 0.193491  0.14962 
+12.0 0.252189  0.179998
+14.0 0.332379  0.210096  
+15.0 0.39061   0.223225 
+16.0 0.951864  0.0383187 

@@ -1,0 +1,13 @@
+# Theoretical predictions
+# s=0.02, L=40, Ks=1, Ku=0.005
+# col 1-> Km; col 2 -> expected allele frequency under LE; col 3-> expected allele frequency incorporating LD+drift 
+0.02  0.427230  0.249350
+0.05  0.637592  0.448374
+0.08  0.743784  0.617625
+0.10  0.788942  0.698803
+0.15  0.858758  0.819117
+0.20  0.897783  0.878573
+0.30  0.938453  0.932969
+0.40  0.958434  0.956759
+0.50  0.969803  0.969426
+

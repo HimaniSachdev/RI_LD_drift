@@ -1,0 +1,15 @@
+# Theoretical predictions (including LD and drift)
+# s=0.02, L=10, Ks=2, rho=0.1
+# col 1-> Km 
+# cols 2,3 -> expected allele frequencies in the rare and common habitats for the allele that is locally favoured in the rare habitat
+# cols 4,5 -> expected FST^rare and FST^common for neutral markers.
+0.1 0.803123 0.0052812 0.837113 0.868635
+0.2 0.723433 0.0084882 0.719353 0.762633
+0.3 0.637717 0.0108761 0.630193 0.675064
+0.4 0.545545 0.0123233 0.560293 0.601315
+0.5 0.446453 0.0126681 0.503974 0.538197
+0.6 0.339971 0.0117102 0.457585 0.483448
+0.7 0.225640 0.0092112 0.418671 0.435424
+0.8 0.103727 0.0049264 0.385526 0.392966
+0.9 0.024193 0.0012650 0.357347 0.358992
+1.0 0.000000 0.0000000 0.333333 0.333333
